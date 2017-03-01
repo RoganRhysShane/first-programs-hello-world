@@ -22,8 +22,11 @@ public class HelloWorld {
      * you've formatted your code correctly, you can cheat and use the IntelliJ
      * shortcut option-command-l, or the menu item Code > Reformat Code.
      */
-    public static void main(String[] args) {
+        public static void main(String[] args) {
+            System.out.println("Hello World");
 
-        // todo: place your code to print "Hello World" here
+        }
     }
-}
+
+
+
